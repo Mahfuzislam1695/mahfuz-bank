@@ -2,7 +2,9 @@ body{
     padding: 100px;
 }
 
-.box{
-    border: 5px;
-    box-shadow: 5px 6px gray;
+.submit-area{
+    margin-top: 50px;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
 }
